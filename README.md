@@ -12,7 +12,7 @@ The task of each file is described below:
 * `preproc.py` - dataclasses and functions used for extracting features and splitting the data
 * `benchmark.py` - contains the simple benchmark model
 * `Crash_Test_Data.ipynb` - A jupyter notebook that has the same contents as `train_model.py`
-* `data/` - contains the crash data retrieved from the Cary data portal
+* `data/` - contains the crash data retrieved from the [Cary data portal](https://data.townofcary.org/pages/homepage/)
 
 ## Installing
 After cloning the repo, install all the requirements (preferably in a virtual environment)
